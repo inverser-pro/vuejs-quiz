@@ -1,0 +1,50 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "question": "Что Вам необходимо?",
+      "answers": [
+        "Сайт",
+        "Брендирование (создание бренда: логотип, слоган и прочее)",
+        "Печатная продукция (визитки, флаера, буклеты и другое)",
+        "Продвижение сайта / бизнеса / товаров / услуг (или другое)"
+      ],
+      "ifYes":false
+    },
+    {
+      "type": "single",
+      "question": "Искали ли Вы сайты конкуретнов?",
+      "answers": [
+        "Да",
+        "Нет"
+      ],
+      "ifYes":true,
+      "ifYesDataType":"textarea",
+      "ifYesDataText":"Введите ссылку или ссылки, если есть"
+    },
+    {
+      "type": "single",
+      "question": "Что Вы предалагете клиентам?",
+      "answers": [
+        "Товары",
+        "Услуги"
+      ],
+      "ifYes":true,
+      "ifYesDataType":"input",
+      "ifYesDataTypeInput":"number",
+      "ifYesDataText":"Введите приблизительное количество имеющегося в обороте товара"
+    },
+    {
+      "type": "single",
+      "question": "Есть ли реальный магазин/офис (offline)?",
+      "answers": [
+        "Да",
+        "Нет"
+      ],
+      "ifYes":true,
+      "ifYesDataType":"textarea",
+      "ifYesDataText":"Введите адрес и контактные данные магазина/офиса"
+    }
+  ]
+}
