@@ -379,4 +379,6 @@
     .loadingQ::after,.loadingQ::before{content:"";position:absolute;top:0;right:0;bottom:0;left:0;width:50%;height:1px;background:linear-gradient(90deg,transparent 0,#fff 50%,transparent 100%);margin:1rem 0 0 0;animation:aqz 1s infinite}
     @keyframes aqz{50%{transform:translateX(100%)}}
     .loadingQ::after{background:rgba(255,255,255,.2);width:auto;height:auto;animation:none;margin:0}
+    .pr{position:relative}
+    .dn{display:none}
 </style>
