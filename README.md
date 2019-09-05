@@ -1,6 +1,8 @@
 # vuejs-quiz
 Create simple Vue JS Quiz (Poll) with my code. It really simply
 
+Visit page https://inverser.pro/169-komponent-oprosa-dlya-vuejs
+
 First:
 
 Install NodeJS to you PC.
@@ -53,6 +55,9 @@ Change this file and add you questions.
 ---------------
 Русский:
 Создайте простой компонент опроса для своего сайта.
+
+Здесь код PHP и многое другое...
+https://inverser.pro/169-komponent-oprosa-dlya-vuejs
 
 Все очень просто и понятно. Чтобы все заработало, установите NodeJS на Ваш PC. Гугли: nodejs install. Скачайте файл и установите программу.
 После нужно установить Git или просто скачать и разархивировать мой проект.
