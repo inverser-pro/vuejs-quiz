@@ -2,6 +2,12 @@
 Create simple Vue JS Quiz (Poll) with my code. It really simply
 
 Visit page https://inverser.pro/169-komponent-oprosa-dlya-vuejs
+YouTube: https://www.youtube.com/watch?v=ByyZlD3L930
+
+Please add CSS in src/components/QuestionBox.vue
+
+    .pr{position:relative}
+    .dn{display:none}
 
 First:
 
@@ -58,6 +64,12 @@ Change this file and add you questions.
 
 Здесь код PHP и многое другое...
 https://inverser.pro/169-komponent-oprosa-dlya-vuejs
+YouTube: https://www.youtube.com/watch?v=ByyZlD3L930
+
+Добавьте CSS в src/components/QuestionBox.vue
+
+    .pr{position:relative}
+    .dn{display:none}
 
 Все очень просто и понятно. Чтобы все заработало, установите NodeJS на Ваш PC. Гугли: nodejs install. Скачайте файл и установите программу.
 После нужно установить Git или просто скачать и разархивировать мой проект.
